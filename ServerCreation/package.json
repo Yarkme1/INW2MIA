@@ -1,0 +1,11 @@
+{
+  "name": "servercreation",
+  "version": "1.0.0",
+  "description": "Como criar um server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Pedro Sassarrão",
+  "license": "ISC"
+}
